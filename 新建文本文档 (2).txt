@@ -1,3 +1,0 @@
-int s1=b1.getSum();
-System.out.println(s1+s2);
-System.out.println(s1);
